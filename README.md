@@ -4,7 +4,7 @@ This is a project that builds a deep-learning model to map raw pixels from a fro
 
 Please see report.pdf for details
 
-Please watch result.mov for a video that shows part of the results
+Please watch **result.mov** for a video that shows part of the results
 
 
 
